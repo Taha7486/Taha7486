@@ -4,7 +4,7 @@
 
 I build and operate production-grade infrastructure. My focus is on container orchestration, GitOps workflows, and making systems observable, automated, and resilient.
 
-Currently seeking a **Summer 2026 DevOps / Platform Engineering internship (PFA)**.
+Currently seeking a **Summer internship (PFA) in DevOps / Backend Developement (PFA)**.
 
 ---
 
